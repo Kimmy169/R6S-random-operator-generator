@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "/0T2AxqO6jhZQs0MlQQfr2CcRg2ZYAWFYH8+LOfQnnc+eV0udzJNF/jMaV7oMTuu4GpBkbIVj/v63hFrCBKYDA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\nikol\\Documents\\GitHub\\R6S-random-operator-generator\\Rainbow 6 Siege random operator generator\\Rainbow 6 Siege random operator generator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nikol\\.nuget\\packages\\microsoft.codeanalysis.analyzers\\3.3.2\\microsoft.codeanalysis.analyzers.3.3.2.nupkg.sha512",
+    "C:\\Users\\nikol\\.nuget\\packages\\stylecop.analyzers\\1.1.118\\stylecop.analyzers.1.1.118.nupkg.sha512"
+  ],
+  "logs": []
+}

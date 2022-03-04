@@ -1,0 +1,14 @@
+C:\Users\nikol\Documents\GitHub\R6S-random-operator-generator\Rainbow 6 Siege random operator generator\bin\Debug\netcoreapp3.1\Rainbow 6 Siege random operator generator.exe
+C:\Users\nikol\Documents\GitHub\R6S-random-operator-generator\Rainbow 6 Siege random operator generator\bin\Debug\netcoreapp3.1\Rainbow 6 Siege random operator generator.deps.json
+C:\Users\nikol\Documents\GitHub\R6S-random-operator-generator\Rainbow 6 Siege random operator generator\bin\Debug\netcoreapp3.1\Rainbow 6 Siege random operator generator.runtimeconfig.json
+C:\Users\nikol\Documents\GitHub\R6S-random-operator-generator\Rainbow 6 Siege random operator generator\bin\Debug\netcoreapp3.1\Rainbow 6 Siege random operator generator.runtimeconfig.dev.json
+C:\Users\nikol\Documents\GitHub\R6S-random-operator-generator\Rainbow 6 Siege random operator generator\bin\Debug\netcoreapp3.1\Rainbow 6 Siege random operator generator.dll
+C:\Users\nikol\Documents\GitHub\R6S-random-operator-generator\Rainbow 6 Siege random operator generator\bin\Debug\netcoreapp3.1\Rainbow 6 Siege random operator generator.pdb
+C:\Users\nikol\Documents\GitHub\R6S-random-operator-generator\Rainbow 6 Siege random operator generator\obj\Debug\netcoreapp3.1\Rainbow 6 Siege random operator generator.csproj.AssemblyReference.cache
+C:\Users\nikol\Documents\GitHub\R6S-random-operator-generator\Rainbow 6 Siege random operator generator\obj\Debug\netcoreapp3.1\Rainbow 6 Siege random operator generator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikol\Documents\GitHub\R6S-random-operator-generator\Rainbow 6 Siege random operator generator\obj\Debug\netcoreapp3.1\Rainbow 6 Siege random operator generator.AssemblyInfoInputs.cache
+C:\Users\nikol\Documents\GitHub\R6S-random-operator-generator\Rainbow 6 Siege random operator generator\obj\Debug\netcoreapp3.1\Rainbow 6 Siege random operator generator.AssemblyInfo.cs
+C:\Users\nikol\Documents\GitHub\R6S-random-operator-generator\Rainbow 6 Siege random operator generator\obj\Debug\netcoreapp3.1\Rainbow 6 Siege random operator generator.csproj.CoreCompileInputs.cache
+C:\Users\nikol\Documents\GitHub\R6S-random-operator-generator\Rainbow 6 Siege random operator generator\obj\Debug\netcoreapp3.1\Rainbow 6 Siege random operator generator.dll
+C:\Users\nikol\Documents\GitHub\R6S-random-operator-generator\Rainbow 6 Siege random operator generator\obj\Debug\netcoreapp3.1\Rainbow 6 Siege random operator generator.pdb
+C:\Users\nikol\Documents\GitHub\R6S-random-operator-generator\Rainbow 6 Siege random operator generator\obj\Debug\netcoreapp3.1\Rainbow 6 Siege random operator generator.genruntimeconfig.cache
